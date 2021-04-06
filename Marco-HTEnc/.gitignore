@@ -1,0 +1,9 @@
+*history
+*cache*
+*pyc
+**checkpoints**
+log
+.idea/
+output/
+model/
+modelAct/

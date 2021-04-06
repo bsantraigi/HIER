@@ -1,0 +1,10 @@
+hdsa_data
+data
+running
+preprocessing
+.DS_Store
+hier.db
+**__pycache__**
+**.ipynb_checkpoints**
+HDSA-Dialog/i
+*.pyc
