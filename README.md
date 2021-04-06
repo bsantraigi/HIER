@@ -48,4 +48,4 @@ Coming soon...
 
 ## Acknowledgements
 
-We thank the authors and developers of [MarCo](https://github.com/InitialBug/MarCo-Dialog) and [HDSA](https://github.com/wenhuchen/HDSA-Dialog) for releasing their models and codes. The code of this work is derived from these two papers.
+We thank the authors and developers of [MarCo](https://github.com/InitialBug/MarCo-Dialog) and [HDSA](https://github.com/wenhuchen/HDSA-Dialog) for releasing their models and codes. The code of this work is derived from these two papers. We also thank the developers of [MultiWoz](https://github.com/budzianowski/multiwoz) for creating the dataset.
