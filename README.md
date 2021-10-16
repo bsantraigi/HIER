@@ -23,15 +23,7 @@ bash extract_data.sh
 
 ## Usage
 
-```bash
-Coming soon...
-```
-
-## Running the Experiments
-
-```bash
-Coming soon...
-```
+Please refer to instructions in this [repo](https://github.com/bsantraigi/hier-transformer-pytorch) for using the HT-Encoder architecture in your model to achieve hierarchical encoding in Transformer encoders.
 
 ## Citations
 
