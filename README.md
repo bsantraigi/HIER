@@ -25,6 +25,16 @@ bash extract_data.sh
 
 Please refer to instructions in this [repo](https://github.com/bsantraigi/hier-transformer-pytorch) for using the HT-Encoder architecture in your model to achieve hierarchical encoding in Transformer encoders.
 
+## Dataset Setup: (From https://github.com/wenhuchen/HDSA-Dialog)
+
+Generated using the create_delex_data.py from original multiwoz repository for multiwoz 2.1 version.
+
+1. Add preprocessed data - train.json, val.json and test.json into hdsa_data/hdsa_data/ folder.
+2. Add delex.json file into data folder, large file(~87MB)
+```
+wget --directory-prefix=data/  https://hdsa-dialog.s3-us-west-2.amazonaws.com/delex.json
+```
+
 ## Citations
 
 ```bibtex
